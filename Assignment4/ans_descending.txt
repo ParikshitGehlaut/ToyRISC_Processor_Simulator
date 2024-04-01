@@ -1,0 +1,4 @@
+Number of instructions executed = 694
+Number of cycles taken = 694
+Number of OF unit stalls = 122
+Number of Wrong Branches Instructions = 176

@@ -1,0 +1,5 @@
+Number of instructions executed = 89
+Number of cycles taken = 2346
+Number of OF unit stalls = 112
+Number of Wrong Branches Instructions = 164
+ThroughPut in terms of IPC = 0.037936915
